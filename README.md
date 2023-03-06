@@ -24,5 +24,5 @@ Hello I'm Barış👋
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barissariagac&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-![snake svg](https://github.com/barissariagac/barissariagac/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake svg](https://github.com/barissariagac/barissariagac/blob/output/github-contribution-grid-snake.svg) -->
 </p>
