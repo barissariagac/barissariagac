@@ -25,5 +25,4 @@ Hello I'm Barış👋
 </p>
 
 ![snake svg](https://github.com/barissariagac/barissariagac/blob/output/github-contribution-grid-snake.svg)
-
 </p>
