@@ -30,6 +30,10 @@ Hello I'm Barış👋
 # 💫 About Me:
 🔭 I’m currently working on Mobile Programming especially Flutter. <br>🌱 I’m currently learning Getx for State Management. <br>👯 I’m looking to collaborate people for Flutter learning. 
 
+<p align='center'> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/barissariagac/count.svg" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](
@@ -47,8 +51,8 @@ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&l
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=barissariagac&theme=flat&no-frame=false&no-bg=true&margin-w=4)
--->
+
 ---
 [![](https://visitcount.itsvg.in/api?id=barissariagac&icon=2&color=0)](https://visitcount.itsvg.in)
-
+-->
 ![snake svg](https://github.com/barissariagac/barissariagac/blob/output/github-contribution-grid-snake.svg)
