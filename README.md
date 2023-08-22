@@ -51,4 +51,4 @@ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&l
 ---
 [![](https://visitcount.itsvg.in/api?id=barissariagac&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake svg](https://github.com/barissariagac/barissariagac/blob/output/github-contribution-grid-snake.svg)
